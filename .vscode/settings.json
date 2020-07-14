@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/home/egil/GitEnvironment/DataDriven/DDEbook/DataDrivenEng/DDEnv/bin/python3",
+    "python.pythonPath": "DDEnv/bin/python",
     "git.ignoreLimitWarning": true
 }
